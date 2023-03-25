@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int num1,num2=0;
-    /*
+    
     cout<<"Enter number 1"<<"\n";
     cin>>num1;
     cout<<"Enter number 2"<<"\n";
@@ -39,7 +39,7 @@ cin>>num;
 first=num/10000;
 secLast=(num/10)%10;
 cout<<"Sum of first and secont last number is "<<first+secLast<<endl;
-*/
+
 
 //qeustion 5
 int num_3;
